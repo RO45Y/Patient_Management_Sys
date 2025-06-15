@@ -36,8 +36,8 @@ A secure Django + DRF backend system for managing patients, doctors, and doctor-
      "password": "Test@1234"
    }
    
-   Note-In header uncheck the  authentication for registeration.
    ```
+Note-In header uncheck the  authentication for registeration.
 
 2. **Login (JWT Token):**  
    `POST /api/auth/login/`  
